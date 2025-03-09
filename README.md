@@ -18,7 +18,14 @@ delaying response.
 context. 
 This project proposes an AI-driven assistant that integrates policies, and user behavior and logs into 
 a centralized, context-aware system. Using a vector database and generative AI, the assistant will 
-provide contextual insights, automate correlations, and recommend responses for security alerts. 
+provide contextual insights, automate correlations, and recommend responses for security alerts.
+
+Tech Stack
+
+LLM : GPT 4
+Vector database : Pinecone
+Front end : Streamlit
+Embedding : Hugging Face Sentence Transformers
  
 Input 
 1. Security Alert Details 
